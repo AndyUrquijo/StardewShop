@@ -6,7 +6,6 @@ using UnityEngine;
 public class SpriteSynchronizer : MonoBehaviour
 {
     [SerializeField] int x, y;
-    int prevX, prevY;
 
     [SerializeField] SpriteRenderer body;
 	[SerializeField] SpriteRenderer clothes;
@@ -16,13 +15,24 @@ public class SpriteSynchronizer : MonoBehaviour
     [SerializeField] SpriteSheet clothesSheet;
     [SerializeField] SpriteSheet hatSheet;
 
-	private void Update()
-	{
-		if (x == prevX && y == prevY) return;
+	Animator animator;
 
-		prevX = x; prevY = y;
+	void Awake()
+	{
+		animator = GetComponent<Animator>();
+	}
+
+	void Update()
+	{
 		if(bodySheet) body.sprite = bodySheet.GetSprite(x, y);
 		if(clothesSheet) clothes.sprite = clothesSheet.GetSprite(x, y);
 		if(hatSheet) hat.sprite = hatSheet.GetSprite(x, y);
+
+		float dirX = animator.GetFloat(PlayerMovement.ID_DirX);
+		bool flip = dirX < 0;
+		body.flipX = flip;
+		clothes.flipX = flip;
+		hat.flipX = flip;
 	}
+
 }

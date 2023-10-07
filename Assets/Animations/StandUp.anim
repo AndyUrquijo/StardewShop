@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: walkRight
+  m_Name: StandUp
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -50,7 +50,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 6
+        value: 5
         inSlope: 0
         outSlope: 0
         tangentMode: 69
@@ -141,7 +141,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 6
+        value: 5
         inSlope: 0
         outSlope: 0
         tangentMode: 69
