@@ -14,7 +14,7 @@ AnimatorStateMachine:
     m_Position: {x: 218, y: 230, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -475549034786819208}
-    m_Position: {x: 419.6, y: 155.4, z: 0}
+    m_Position: {x: 350, y: 120, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -24,7 +24,7 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 8128766283927432893}
+  m_DefaultState: {fileID: -475549034786819208}
 --- !u!206 &-6689980398361018747
 BlendTree:
   m_ObjectHideFlags: 1
@@ -125,7 +125,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Blend Tree
+  m_Name: Move
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
