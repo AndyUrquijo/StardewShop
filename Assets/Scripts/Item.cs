@@ -1,7 +1,8 @@
 using UnityEngine;
 
-public class Item
+public class Item : ScriptableObject
 {
-	public Sprite Icon;
 	public float Price;
+	public string Name;
+	public Sprite Icon;
 }

@@ -5,9 +5,9 @@ using UnityEngine;
 [ExecuteInEditMode]
 public class SpriteSynchronizer : MonoBehaviour
 {
-	[SerializeField] SpriteSheet bodySheet;
-	[SerializeField] SpriteSheet clothesSheet;
-	[SerializeField] SpriteSheet hatSheet;
+	public SpriteSheet bodySheet;
+	public SpriteSheet clothesSheet;
+	public SpriteSheet hatSheet;
 
 	[SerializeField] SpriteRenderer body;
 	[SerializeField] SpriteRenderer clothes;

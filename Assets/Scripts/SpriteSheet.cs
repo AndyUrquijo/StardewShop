@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Linq;
-using UnityEditor;
-using UnityEditor.VersionControl;
 using UnityEngine;
-
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 [CreateAssetMenu(fileName = "SpriteSheet", menuName = "Custom/SpriteSheet")]
 public class SpriteSheet : ScriptableObject
 {
@@ -18,6 +18,7 @@ public class SpriteSheet : ScriptableObject
 		return sprites[y + rows*x];
 	}
 
+#if UNITY_EDITOR
 	[ContextMenu("Slice Sprites")]
 	void SliceSprites()
 	{
@@ -54,4 +55,5 @@ public class SpriteSheet : ScriptableObject
 		AssetDatabase.RenameAsset(assetPath, baseTexture.name);
 		AssetDatabase.SaveAssets();
 	}
+#endif
 }

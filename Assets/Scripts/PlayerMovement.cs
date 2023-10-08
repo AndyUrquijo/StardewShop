@@ -5,16 +5,18 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D), typeof(Animator))]
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField] float walkSpeed;
+	public static int ID_DirX = Animator.StringToHash("DirX");
+	public static int ID_DirY = Animator.StringToHash("DirY");
+	public static int ID_Speed = Animator.StringToHash("Speed");
+
+	[SerializeField] float walkSpeed;
     [SerializeField] float runSpeed;
     
     Rigidbody2D body;
     Animator animator;
     
     Vector2 input;
-    public static int ID_DirX = Animator.StringToHash("DirX");
-    public static int ID_DirY = Animator.StringToHash("DirY");
-    public static int ID_Speed = Animator.StringToHash("Speed");
+
 
 	void Awake()
     {
