@@ -31,6 +31,8 @@ public class Shop : MonoBehaviour
 
 		mainPanel.SetActive(true);
 
+		var selectedItem = GetSelectedItem();
+
 		foreach (var entry in entries)
 		{
 			toggleGroup.UnregisterToggle(entry.Toggle);
@@ -45,6 +47,9 @@ public class Shop : MonoBehaviour
 			entry.Initialize(item);
 			entries.Add(entry);
 			toggleGroup.RegisterToggle(entry.Toggle);
+
+			if (selectedItem != null && selectedItem == item)
+				entry.Toggle.isOn = true;
 		}
 		
 	}
