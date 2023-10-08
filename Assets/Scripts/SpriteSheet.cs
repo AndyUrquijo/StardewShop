@@ -13,8 +13,8 @@ public class SpriteSheet : ScriptableObject
 
 	public Sprite GetSprite(int x, int y)
 	{
-		x = Mathf.Clamp(x, 0, columns);
-		y = Mathf.Clamp(y, 0, rows);
+		x = Mathf.Clamp(x, 0, columns-1);
+		y = Mathf.Clamp(y, 0, rows-1);
 		return sprites[y + rows*x];
 	}
 

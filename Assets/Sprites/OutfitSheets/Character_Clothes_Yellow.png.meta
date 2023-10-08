@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 52802a5b692b914478787728ebb2065d
+guid: 21c59232d784a0a4d8383c4db08c3e99
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -104,1345 +104,1345 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_0
+      name: Character_Clothes_Yellow_(0,0)
       rect:
         serializedVersion: 2
         x: 0
         y: 448
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8edec583707a0e841a62eebfe10aeb74
-      internalID: 188538148
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_1
+      name: Character_Clothes_Yellow_(1,0)
       rect:
         serializedVersion: 2
         x: 64
         y: 448
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a6e8af7139acc1c48af03046fdd9273e
-      internalID: 431980366
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_2
+      name: Character_Clothes_Yellow_(2,0)
       rect:
         serializedVersion: 2
         x: 128
         y: 448
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cf8ca248b29ac5d40ab231a9ad25d63c
-      internalID: -2021261179
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_3
+      name: Character_Clothes_Yellow_(3,0)
       rect:
         serializedVersion: 2
         x: 192
         y: 448
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fa8046bde908bdb4ab8ce6fd87223fdd
-      internalID: 1439260031
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_4
+      name: Character_Clothes_Yellow_(4,0)
       rect:
         serializedVersion: 2
         x: 256
         y: 448
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ad78b63e6881d4c469c3538621f3d50f
-      internalID: -1806007560
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_5
+      name: Character_Clothes_Yellow_(5,0)
       rect:
         serializedVersion: 2
         x: 320
         y: 448
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0d108da06919bec4db61b8e1785604ed
-      internalID: 196253776
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_6
+      name: Character_Clothes_Yellow_(6,0)
       rect:
         serializedVersion: 2
         x: 384
         y: 448
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f8a47e68f3e0373428ed1acf2a000af0
-      internalID: -289959596
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_7
+      name: Character_Clothes_Yellow_(7,0)
       rect:
         serializedVersion: 2
         x: 448
         y: 448
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a6380c1a7bb15604b8a9aff9d3b54f7c
-      internalID: -790640337
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_8
+      name: Character_Clothes_Yellow_(0,1)
       rect:
         serializedVersion: 2
         x: 0
         y: 384
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b3783f1a69e3a6f4fa01a99449927ace
-      internalID: 1286437158
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_9
+      name: Character_Clothes_Yellow_(1,1)
       rect:
         serializedVersion: 2
         x: 64
         y: 384
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3a8144947a47d2240b49e9abd510cc3b
-      internalID: -392184499
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_10
+      name: Character_Clothes_Yellow_(2,1)
       rect:
         serializedVersion: 2
         x: 128
         y: 384
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ae7708a893746124ea2bf1797aa8e337
-      internalID: -1718393766
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_11
+      name: Character_Clothes_Yellow_(3,1)
       rect:
         serializedVersion: 2
         x: 192
         y: 384
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7692fea35f0ac4c44bd5d8d30267f445
-      internalID: -952867462
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_12
+      name: Character_Clothes_Yellow_(4,1)
       rect:
         serializedVersion: 2
         x: 256
         y: 384
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d4541797e207745418470b29ad76e78b
-      internalID: -764326136
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_13
+      name: Character_Clothes_Yellow_(5,1)
       rect:
         serializedVersion: 2
         x: 320
         y: 384
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 599c7a20e1122be47b263d634a51be26
-      internalID: 1652994496
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_14
+      name: Character_Clothes_Yellow_(6,1)
       rect:
         serializedVersion: 2
         x: 384
         y: 384
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 45c18116ea56abd4d9442847aa85290a
-      internalID: -898988711
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_15
+      name: Character_Clothes_Yellow_(7,1)
       rect:
         serializedVersion: 2
         x: 448
         y: 384
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bb3e66860c7ba29468cd93963160095b
-      internalID: 298081314
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_16
+      name: Character_Clothes_Yellow_(0,2)
       rect:
         serializedVersion: 2
         x: 0
         y: 320
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f83d0ddd3eb4ebc48b0297cf78432121
-      internalID: -96186945
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_17
+      name: Character_Clothes_Yellow_(1,2)
       rect:
         serializedVersion: 2
         x: 64
         y: 320
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 07159bebcd7ff634e820bd1caf536bc8
-      internalID: 1161192624
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_18
+      name: Character_Clothes_Yellow_(2,2)
       rect:
         serializedVersion: 2
         x: 128
         y: 320
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 90f39facf3b007b45a48acecefc191d1
-      internalID: 1821613765
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_19
+      name: Character_Clothes_Yellow_(3,2)
       rect:
         serializedVersion: 2
         x: 192
         y: 320
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0b88040842bc0864aa80bb2060b62edc
-      internalID: 1051852432
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_20
+      name: Character_Clothes_Yellow_(4,2)
       rect:
         serializedVersion: 2
         x: 256
         y: 320
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b48bee28158fc964bb746bbb50a5452d
-      internalID: -1191430756
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_21
+      name: Character_Clothes_Yellow_(5,2)
       rect:
         serializedVersion: 2
         x: 320
         y: 320
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e935668f49be14b4aba58d2ff6cc6b0f
-      internalID: 386331135
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_22
+      name: Character_Clothes_Yellow_(6,2)
       rect:
         serializedVersion: 2
         x: 384
         y: 320
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c650974efee8ec54ab38b9287004a4e5
-      internalID: -521330322
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_23
+      name: Character_Clothes_Yellow_(7,2)
       rect:
         serializedVersion: 2
         x: 448
         y: 320
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f069761fc340faa43bb5ec8e6f0a4a24
-      internalID: -1238297162
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_24
+      name: Character_Clothes_Yellow_(0,3)
       rect:
         serializedVersion: 2
         x: 0
         y: 256
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9e9573436c2546d49a558c4088a65d3a
-      internalID: -1085183666
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_25
+      name: Character_Clothes_Yellow_(1,3)
       rect:
         serializedVersion: 2
         x: 64
         y: 256
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 20400c9e62cc7904ba775ba316fe6606
-      internalID: 520003226
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_26
+      name: Character_Clothes_Yellow_(2,3)
       rect:
         serializedVersion: 2
         x: 128
         y: 256
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c514651b9d1334c4186b2733e95e8ead
-      internalID: 1729021102
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_27
+      name: Character_Clothes_Yellow_(3,3)
       rect:
         serializedVersion: 2
         x: 192
         y: 256
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 54e5db96ba833aa4e930bea81fee45ec
-      internalID: 1028669181
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_28
+      name: Character_Clothes_Yellow_(4,3)
       rect:
         serializedVersion: 2
         x: 256
         y: 256
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 379d4b3b15eede049a3c8887b8126a8d
-      internalID: 1449062064
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_29
+      name: Character_Clothes_Yellow_(5,3)
       rect:
         serializedVersion: 2
         x: 320
         y: 256
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 475a97bb4a2a6ea4aa5f516b3c285e46
-      internalID: 1531292705
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_30
+      name: Character_Clothes_Yellow_(6,3)
       rect:
         serializedVersion: 2
         x: 384
         y: 256
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 04567b3a371bbde41a22865f02877a13
-      internalID: -1064653794
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_31
+      name: Character_Clothes_Yellow_(7,3)
       rect:
         serializedVersion: 2
         x: 448
         y: 256
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 30b6aab3ad0332b49a870b470e1888d2
-      internalID: -1193591728
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_32
+      name: Character_Clothes_Yellow_(0,4)
       rect:
         serializedVersion: 2
         x: 0
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3a09013e798c37f4bb6f73c6e5ad089f
-      internalID: -765735567
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_33
+      name: Character_Clothes_Yellow_(1,4)
       rect:
         serializedVersion: 2
         x: 64
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 66dc1b1b71bc9fc408aa5752c0157f1c
-      internalID: 169883693
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_34
+      name: Character_Clothes_Yellow_(2,4)
       rect:
         serializedVersion: 2
         x: 128
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d322b314411d92c4fb37649ddf08ad15
-      internalID: -867471645
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_35
+      name: Character_Clothes_Yellow_(3,4)
       rect:
         serializedVersion: 2
         x: 192
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6315b31ff56f1674c860185a4517cda8
-      internalID: -2114378951
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_36
+      name: Character_Clothes_Yellow_(4,4)
       rect:
         serializedVersion: 2
         x: 256
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3ce1f0054c2a9ab49bd85c1293d46559
-      internalID: -1265392801
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_37
+      name: Character_Clothes_Yellow_(5,4)
       rect:
         serializedVersion: 2
         x: 320
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9bc15b33fc50f5c41a946b9ca21cf507
-      internalID: -2018380531
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_38
+      name: Character_Clothes_Yellow_(6,4)
       rect:
         serializedVersion: 2
         x: 384
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cb3b00d46efdf1d4aba94129ef719ccf
-      internalID: 1289762310
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_39
+      name: Character_Clothes_Yellow_(7,4)
       rect:
         serializedVersion: 2
         x: 448
         y: 192
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6b2801c0ffacb704591d46121e2cc97c
-      internalID: -1440134119
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_40
+      name: Character_Clothes_Yellow_(0,5)
       rect:
         serializedVersion: 2
         x: 0
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4ec5709608a45de479f8b1b92c00dba5
-      internalID: 484545589
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_41
+      name: Character_Clothes_Yellow_(1,5)
       rect:
         serializedVersion: 2
         x: 64
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 096c300bd8e3ae742859d7dfd2ec2192
-      internalID: -1867227822
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_42
+      name: Character_Clothes_Yellow_(2,5)
       rect:
         serializedVersion: 2
         x: 128
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8492115c31dfb974e92c41b9180039d9
-      internalID: -421704980
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_43
+      name: Character_Clothes_Yellow_(3,5)
       rect:
         serializedVersion: 2
         x: 192
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6a5659a84fbd44d4d994ea7a6e420ce3
-      internalID: -1123899291
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_44
+      name: Character_Clothes_Yellow_(4,5)
       rect:
         serializedVersion: 2
         x: 256
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f0abed7c0e26ff04197c96c68a866f2c
-      internalID: 2019305974
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_45
+      name: Character_Clothes_Yellow_(5,5)
       rect:
         serializedVersion: 2
         x: 320
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cef7553758b90fd4db84c967c9059ade
-      internalID: 1726578596
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_46
+      name: Character_Clothes_Yellow_(6,5)
       rect:
         serializedVersion: 2
         x: 384
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: da22a1b37f2509a48867bffa4fab1ed6
-      internalID: -766064222
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_47
+      name: Character_Clothes_Yellow_(7,5)
       rect:
         serializedVersion: 2
         x: 448
         y: 128
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 14aa0c828a058ff4c8d295a90be21fab
-      internalID: 1274584697
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_48
+      name: Character_Clothes_Yellow_(0,6)
       rect:
         serializedVersion: 2
         x: 0
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e97c54b0f2cabc24cbdbe9fd5f7000d2
-      internalID: -460998048
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_49
+      name: Character_Clothes_Yellow_(1,6)
       rect:
         serializedVersion: 2
         x: 64
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c3357b554a548cf45851345985e9e44a
-      internalID: -1105549711
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_50
+      name: Character_Clothes_Yellow_(2,6)
       rect:
         serializedVersion: 2
         x: 128
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 56a9c8b260ac67b4fa4500b5156131cb
-      internalID: 1441303061
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_51
+      name: Character_Clothes_Yellow_(3,6)
       rect:
         serializedVersion: 2
         x: 192
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f324eeefc5372504cba429e5481aa6ce
-      internalID: -1774231145
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_52
+      name: Character_Clothes_Yellow_(4,6)
       rect:
         serializedVersion: 2
         x: 256
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 11317ae7fc98f6d429a8f9a046b0a8a2
-      internalID: 1019010044
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_53
+      name: Character_Clothes_Yellow_(5,6)
       rect:
         serializedVersion: 2
         x: 320
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 90964613b98f3bd4c994dafc60584b9d
-      internalID: 1278756228
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_54
+      name: Character_Clothes_Yellow_(6,6)
       rect:
         serializedVersion: 2
         x: 384
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a0895b33adb733b4a9e3f55dd01ebc89
-      internalID: 972120439
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_55
+      name: Character_Clothes_Yellow_(7,6)
       rect:
         serializedVersion: 2
         x: 448
         y: 64
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 34bc993ff59b6bb46b40eccf7f98ccb0
-      internalID: 1967230177
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_56
+      name: Character_Clothes_Yellow_(0,7)
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ab811ee4739bd064fbb328db7b66ba22
-      internalID: 1387055889
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_57
+      name: Character_Clothes_Yellow_(1,7)
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c8b187b6442151549843e38ea75e25c9
-      internalID: -1320542521
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_58
+      name: Character_Clothes_Yellow_(2,7)
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ba3cc4864a2b767408410142e4dfd73e
-      internalID: -795278067
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_59
+      name: Character_Clothes_Yellow_(3,7)
       rect:
         serializedVersion: 2
         x: 192
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c4f96579d472cba4599dc024ff33c9d3
-      internalID: -116460969
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_60
+      name: Character_Clothes_Yellow_(4,7)
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ae4a0b00489e58349b1a56168ab2daa8
-      internalID: -1225270909
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_61
+      name: Character_Clothes_Yellow_(5,7)
       rect:
         serializedVersion: 2
         x: 320
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 25d78d9a1c045ac4784f09b387349347
-      internalID: -643091280
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_62
+      name: Character_Clothes_Yellow_(6,7)
       rect:
         serializedVersion: 2
         x: 384
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0757bcb7217a623429ea73e31da4712c
-      internalID: -1300123559
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_1out_undi_v01_63
+      name: Character_Clothes_Yellow_(7,7)
       rect:
         serializedVersion: 2
         x: 448
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a0f19c5ccf9b46f41ac729aa83e13227
-      internalID: 1059972259
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1458,70 +1458,134 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      char_a_p1_1out_undi_v01_42: -421704980
-      char_a_p1_1out_undi_v01_49: -1105549711
-      char_a_p1_1out_undi_v01_11: -952867462
-      char_a_p1_1out_undi_v01_4: -1806007560
-      char_a_p1_1out_undi_v01_18: 1821613765
-      char_a_p1_1out_undi_v01_56: 1387055889
-      char_a_p1_1out_undi_v01_38: 1289762310
-      char_a_p1_1out_undi_v01_19: 1051852432
-      char_a_p1_1out_undi_v01_60: -1225270909
-      char_a_p1_1out_undi_v01_21: 386331135
-      char_a_p1_1out_undi_v01_63: 1059972259
-      char_a_p1_1out_undi_v01_51: -1774231145
-      char_a_p1_1out_undi_v01_28: 1449062064
-      char_a_p1_1out_undi_v01_22: -521330322
-      char_a_p1_1out_undi_v01_40: 484545589
-      char_a_p1_1out_undi_v01_25: 520003226
-      char_a_p1_1out_undi_v01_59: -116460969
-      char_a_p1_1out_undi_v01_15: 298081314
-      char_a_p1_1out_undi_v01_33: 169883693
-      char_a_p1_1out_undi_v01_53: 1278756228
-      char_a_p1_1out_undi_v01_0: 188538148
-      char_a_p1_1out_undi_v01_54: 972120439
-      char_a_p1_1out_undi_v01_26: 1729021102
-      char_a_p1_1out_undi_v01_43: -1123899291
-      char_a_p1_1out_undi_v01_13: 1652994496
-      char_a_p1_1out_undi_v01_17: 1161192624
-      char_a_p1_1out_undi_v01_24: -1085183666
-      char_a_p1_1out_undi_v01_16: -96186945
-      char_a_p1_1out_undi_v01_47: 1274584697
-      char_a_p1_1out_undi_v01_45: 1726578596
-      char_a_p1_1out_undi_v01_23: -1238297162
-      char_a_p1_1out_undi_v01_62: -1300123559
-      char_a_p1_1out_undi_v01_37: -2018380531
-      char_a_p1_1out_undi_v01_27: 1028669181
-      char_a_p1_1out_undi_v01_39: -1440134119
-      char_a_p1_1out_undi_v01_32: -765735567
-      char_a_p1_1out_undi_v01_29: 1531292705
-      char_a_p1_1out_undi_v01_52: 1019010044
-      char_a_p1_1out_undi_v01_5: 196253776
-      char_a_p1_1out_undi_v01_7: -790640337
-      char_a_p1_1out_undi_v01_35: -2114378951
-      char_a_p1_1out_undi_v01_30: -1064653794
-      char_a_p1_1out_undi_v01_36: -1265392801
-      char_a_p1_1out_undi_v01_58: -795278067
-      char_a_p1_1out_undi_v01_57: -1320542521
-      char_a_p1_1out_undi_v01_8: 1286437158
-      char_a_p1_1out_undi_v01_50: 1441303061
-      char_a_p1_1out_undi_v01_2: -2021261179
-      char_a_p1_1out_undi_v01_1: 431980366
-      char_a_p1_1out_undi_v01_41: -1867227822
-      char_a_p1_1out_undi_v01_34: -867471645
-      char_a_p1_1out_undi_v01_55: 1967230177
-      char_a_p1_1out_undi_v01_61: -643091280
-      char_a_p1_1out_undi_v01_6: -289959596
-      char_a_p1_1out_undi_v01_3: 1439260031
-      char_a_p1_1out_undi_v01_12: -764326136
-      char_a_p1_1out_undi_v01_9: -392184499
-      char_a_p1_1out_undi_v01_14: -898988711
-      char_a_p1_1out_undi_v01_20: -1191430756
-      char_a_p1_1out_undi_v01_44: 2019305974
-      char_a_p1_1out_undi_v01_31: -1193591728
-      char_a_p1_1out_undi_v01_46: -766064222
-      char_a_p1_1out_undi_v01_10: -1718393766
-      char_a_p1_1out_undi_v01_48: -460998048
+      char_a_p1_1out_fstr_v04_19: 1533170054
+      char_a_p1_1out_fstr_v04_1: 1906970770
+      char_a_p1_1out_fstr_v04_8: -1492380298
+      char_a_p1_1out_fstr_v04_37: 2017021084
+      char_a_p1_1out_fstr_v04_12: -1603660616
+      Character_Clothes_Yellow_(7,3): 0
+      char_a_p1_1out_fstr_v04_17: -538264660
+      char_a_p1_1out_fstr_v04_7: 566952044
+      char_a_p1_1out_fstr_v04_20: 365987029
+      Character_Clothes_Yellow_(7,2): 0
+      Character_Clothes_Yellow_(6,1): 0
+      Character_Clothes_Yellow_(1,1): 0
+      char_a_p1_1out_fstr_v04_23: -2147450280
+      char_a_p1_1out_fstr_v04_21: -1464926652
+      Character_Clothes_Yellow_(1,6): 0
+      Character_Clothes_Yellow_(2,4): 0
+      char_a_p1_1out_fstr_v04_30: -877622217
+      char_a_p1_1out_fstr_v04_5: -1411969489
+      char_a_p1_1out_fstr_v04_38: 1815757401
+      Character_Clothes_Yellow_(2,6): 0
+      Character_Clothes_Yellow_(7,5): 0
+      Character_Clothes_Yellow_(3,3): 0
+      char_a_p1_1out_fstr_v04_47: 1870879939
+      Character_Clothes_Yellow_(5,1): 0
+      Character_Clothes_Yellow_(5,7): 0
+      char_a_p1_1out_fstr_v04_49: -1331207512
+      char_a_p1_1out_fstr_v04_45: 1423782327
+      char_a_p1_1out_fstr_v04_53: 1112194984
+      char_a_p1_1out_fstr_v04_15: -1974860207
+      Character_Clothes_Yellow_(3,6): 0
+      char_a_p1_1out_fstr_v04_3: 1371548321
+      char_a_p1_1out_fstr_v04_2: -1036850836
+      char_a_p1_1out_fstr_v04_50: 308877173
+      char_a_p1_1out_fstr_v04_62: 860954568
+      char_a_p1_1out_fstr_v04_48: 55718982
+      Character_Clothes_Yellow_(5,2): 0
+      Character_Clothes_Yellow_(5,4): 0
+      char_a_p1_1out_fstr_v04_13: 533114160
+      Character_Clothes_Yellow_(6,4): 0
+      Character_Clothes_Yellow_(4,1): 0
+      Character_Clothes_Yellow_(4,0): 0
+      char_a_p1_1out_fstr_v04_6: -711040955
+      char_a_p1_1out_fstr_v04_27: -1403851512
+      char_a_p1_1out_fstr_v04_31: -551328773
+      char_a_p1_1out_fstr_v04_52: -629559043
+      char_a_p1_1out_fstr_v04_33: -597318262
+      Character_Clothes_Yellow_(2,2): 0
+      char_a_p1_1out_fstr_v04_11: 1991517052
+      char_a_p1_1out_fstr_v04_34: 1405553762
+      char_a_p1_1out_fstr_v04_58: -1559033751
+      char_a_p1_1out_fstr_v04_46: 1875778769
+      Character_Clothes_Yellow_(1,3): 0
+      Character_Clothes_Yellow_(4,5): 0
+      Character_Clothes_Yellow_(4,2): 0
+      Character_Clothes_Yellow_(0,7): 0
+      Character_Clothes_Yellow_(5,5): 0
+      Character_Clothes_Yellow_(2,3): 0
+      Character_Clothes_Yellow_(3,5): 0
+      Character_Clothes_Yellow_(5,3): 0
+      char_a_p1_1out_fstr_v04_4: -446531796
+      Character_Clothes_Yellow_(7,0): 0
+      Character_Clothes_Yellow_(7,1): 0
+      Character_Clothes_Yellow_(0,1): 0
+      Character_Clothes_Yellow_(0,6): 0
+      Character_Clothes_Yellow_(5,0): 0
+      char_a_p1_1out_fstr_v04_0: -2141431685
+      Character_Clothes_Yellow_(2,7): 0
+      char_a_p1_1out_fstr_v04_35: 68519380
+      char_a_p1_1out_fstr_v04_60: 1125944106
+      Character_Clothes_Yellow_(4,7): 0
+      char_a_p1_1out_fstr_v04_28: -369072200
+      char_a_p1_1out_fstr_v04_55: 1800383025
+      Character_Clothes_Yellow_(0,4): 0
+      Character_Clothes_Yellow_(2,0): 0
+      Character_Clothes_Yellow_(1,5): 0
+      char_a_p1_1out_fstr_v04_36: 994865037
+      Character_Clothes_Yellow_(6,6): 0
+      Character_Clothes_Yellow_(1,2): 0
+      Character_Clothes_Yellow_(0,0): 0
+      Character_Clothes_Yellow_(3,7): 0
+      Character_Clothes_Yellow_(1,4): 0
+      Character_Clothes_Yellow_(4,3): 0
+      Character_Clothes_Yellow_(4,6): 0
+      Character_Clothes_Yellow_(1,7): 0
+      char_a_p1_1out_fstr_v04_9: -705217007
+      Character_Clothes_Yellow_(7,7): 0
+      char_a_p1_1out_fstr_v04_16: -223329637
+      char_a_p1_1out_fstr_v04_40: 1321039853
+      Character_Clothes_Yellow_(6,3): 0
+      char_a_p1_1out_fstr_v04_42: 1433488882
+      char_a_p1_1out_fstr_v04_59: -1848533404
+      Character_Clothes_Yellow_(6,2): 0
+      char_a_p1_1out_fstr_v04_14: -1114450043
+      Character_Clothes_Yellow_(0,2): 0
+      char_a_p1_1out_fstr_v04_41: -985102911
+      char_a_p1_1out_fstr_v04_22: -1029634359
+      char_a_p1_1out_fstr_v04_32: 1587331427
+      Character_Clothes_Yellow_(7,4): 0
+      char_a_p1_1out_fstr_v04_39: 1086775750
+      Character_Clothes_Yellow_(2,1): 0
+      char_a_p1_1out_fstr_v04_56: -566594637
+      char_a_p1_1out_fstr_v04_51: 1917689019
+      Character_Clothes_Yellow_(3,0): 0
+      char_a_p1_1out_fstr_v04_24: -237961824
+      char_a_p1_1out_fstr_v04_61: 1196945305
+      char_a_p1_1out_fstr_v04_10: 1757744205
+      Character_Clothes_Yellow_(1,0): 0
+      Character_Clothes_Yellow_(0,5): 0
+      char_a_p1_1out_fstr_v04_18: 478603986
+      Character_Clothes_Yellow_(3,1): 0
+      Character_Clothes_Yellow_(5,6): 0
+      Character_Clothes_Yellow_(3,4): 0
+      Character_Clothes_Yellow_(6,7): 0
+      char_a_p1_1out_fstr_v04_43: -506297624
+      char_a_p1_1out_fstr_v04_54: -1991175678
+      Character_Clothes_Yellow_(6,0): 0
+      Character_Clothes_Yellow_(3,2): 0
+      char_a_p1_1out_fstr_v04_44: 65555152
+      char_a_p1_1out_fstr_v04_25: 1449700415
+      char_a_p1_1out_fstr_v04_29: 431170008
+      char_a_p1_1out_fstr_v04_57: -1782420812
+      Character_Clothes_Yellow_(7,6): 0
+      Character_Clothes_Yellow_(6,5): 0
+      Character_Clothes_Yellow_(4,4): 0
+      Character_Clothes_Yellow_(0,3): 0
+      char_a_p1_1out_fstr_v04_63: 962073400
+      Character_Clothes_Yellow_(2,5): 0
+      char_a_p1_1out_fstr_v04_26: -1572102675
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

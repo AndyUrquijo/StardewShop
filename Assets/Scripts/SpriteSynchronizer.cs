@@ -5,15 +5,14 @@ using UnityEngine;
 [ExecuteInEditMode]
 public class SpriteSynchronizer : MonoBehaviour
 {
-    [SerializeField] int x, y;
+	[SerializeField] SpriteSheet bodySheet;
+	[SerializeField] SpriteSheet clothesSheet;
+	[SerializeField] SpriteSheet hatSheet;
 
-    [SerializeField] SpriteRenderer body;
+	[SerializeField] SpriteRenderer body;
 	[SerializeField] SpriteRenderer clothes;
 	[SerializeField] SpriteRenderer hat;
-
-    [SerializeField] SpriteSheet bodySheet;
-    [SerializeField] SpriteSheet clothesSheet;
-    [SerializeField] SpriteSheet hatSheet;
+	[SerializeField] int x, y;
 
 	void Update()
 	{
