@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using Unity.VisualScripting;
 using UnityEditor;
 using UnityEngine;
@@ -8,11 +9,13 @@ using UnityEngine.UI;
 public class Shop : MonoBehaviour
 {
     public static Shop Instance;
+
 	[SerializeField] GameObject mainPanel;
 	[SerializeField] ToggleGroup toggleGroup;
 	[SerializeField] Button BuyButton;
 	[SerializeField] Button EquipButton;
 	[SerializeField] ShopEntry entryPrototype;
+	[SerializeField] TextMeshProUGUI goldLabel;
 
 	Wares wares;
 
@@ -30,6 +33,8 @@ public class Shop : MonoBehaviour
 		this.wares = wares;
 
 		mainPanel.SetActive(true);
+
+		goldLabel.SetText($"Gold: ${Inventory.Instance.Gold}");
 
 		var selectedItem = GetSelectedItem();
 
@@ -60,11 +65,14 @@ public class Shop : MonoBehaviour
 		if (selectedItem != null) 
 		{
 			// This code assumes items are outfits (as there are no other item types currently)
-			bool held = Inventory.Instance.IsHeld(selectedItem);
-			bool equipped = Inventory.Instance.IsEquipped(selectedItem as Outfit);
-			BuyButton.gameObject.SetActive(!held);
-			EquipButton.gameObject.SetActive(held);
-			EquipButton.interactable = !equipped;
+			bool isHeld = Inventory.Instance.IsHeld(selectedItem);
+			bool isEquipped = Inventory.Instance.IsEquipped(selectedItem as Outfit);
+			bool canAfford = Inventory.Instance.Gold >= (int)selectedItem.Price;
+
+			BuyButton.gameObject.SetActive(!isHeld);
+			EquipButton.gameObject.SetActive(isHeld);
+			BuyButton.interactable = canAfford;
+			EquipButton.interactable = !isEquipped;
 		}
 		else
 		{
@@ -75,7 +83,9 @@ public class Shop : MonoBehaviour
 
 	public void Buy()
 	{
-		Inventory.Instance.AddItem(GetSelectedItem());
+		var selectedItem = GetSelectedItem();
+		Inventory.Instance.AddItem(selectedItem);
+		Inventory.Instance.Gold -= (int)selectedItem.Price;
 		InitializeWares(wares);
 	}
 

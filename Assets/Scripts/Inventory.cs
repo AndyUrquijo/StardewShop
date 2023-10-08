@@ -10,6 +10,8 @@ public class Inventory : MonoBehaviour
 
     public Outfit Hat;
     public Outfit Clothes;
+	public int Gold;
+
 	[SerializeField] SpriteSynchronizer playerSpriteSynchronizer;
 
 	private void Awake()
