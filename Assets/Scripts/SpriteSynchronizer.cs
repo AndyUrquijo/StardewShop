@@ -19,6 +19,9 @@ public class SpriteSynchronizer : MonoBehaviour
 		if(bodySheet) body.sprite = bodySheet.GetSprite(x, y);
 		if(clothesSheet) clothes.sprite = clothesSheet.GetSprite(x, y);
 		if(hatSheet) hat.sprite = hatSheet.GetSprite(x, y);
+		
+		clothes.enabled = clothesSheet != null;
+		hat.enabled = hatSheet != null;
 	}
 
 }
