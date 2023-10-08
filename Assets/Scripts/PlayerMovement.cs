@@ -5,7 +5,8 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D), typeof(Animator))]
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField] float speed;
+    [SerializeField] float walkSpeed;
+    [SerializeField] float runSpeed;
     
     Rigidbody2D body;
     Animator animator;
@@ -27,15 +28,33 @@ public class PlayerMovement : MonoBehaviour
 		input.y = Input.GetAxisRaw("Vertical");
         if (input != Vector2.zero)
         {
-            animator.SetFloat(ID_DirX, input.x);
-            animator.SetFloat(ID_DirY, input.y);
+            Vector2 dir = Vector2.zero;
+            if(Mathf.Abs(input.x) >= Mathf.Abs(input.y))
+                dir.x = input.x > 0 ? 1:-1;
+            else
+                dir.y = input.y > 0 ? 1:-1;
+
+            animator.SetFloat(ID_DirX, dir.x);
+            animator.SetFloat(ID_DirY, dir.y);
 			animator.SetFloat(ID_Speed, 1);
-        }
+
+            if (Input.GetKey(KeyCode.LeftShift))
+            {
+				animator.SetFloat(ID_Speed, 2);
+		        body.velocity = runSpeed * input;
+			}
+			else
+            {
+                animator.SetFloat(ID_Speed, 1);
+				body.velocity = walkSpeed * input;
+			}
+
+		}
         else
         {
             animator.SetFloat(ID_Speed, 0);
+			body.velocity = Vector2.zero;
 		}
 
-		body.velocity = speed * input;
 	}
 }
