@@ -8,6 +8,8 @@ using UnityEngine.UI;
 
 public class Shop : MonoBehaviour
 {
+	public static int ID_Spend = Animator.StringToHash("Spend");
+
     public static Shop Instance;
 
 	[SerializeField] GameObject mainPanel;
@@ -15,7 +17,10 @@ public class Shop : MonoBehaviour
 	[SerializeField] Button BuyButton;
 	[SerializeField] Button EquipButton;
 	[SerializeField] ShopEntry entryPrototype;
+
 	[SerializeField] TextMeshProUGUI goldLabel;
+	[SerializeField] Animator goldAnimator;
+	[SerializeField] TextMeshProUGUI spendLabel;
 
 	Wares wares;
 
@@ -86,6 +91,8 @@ public class Shop : MonoBehaviour
 		var selectedItem = GetSelectedItem();
 		Inventory.Instance.AddItem(selectedItem);
 		Inventory.Instance.Gold -= (int)selectedItem.Price;
+		spendLabel.SetText($"-${(int)selectedItem.Price}");
+		goldAnimator.SetTrigger(ID_Spend);
 		InitializeWares(wares);
 	}
 
