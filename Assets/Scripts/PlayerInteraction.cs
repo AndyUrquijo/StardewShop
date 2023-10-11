@@ -23,7 +23,7 @@ public class PlayerInteraction : MonoBehaviour
 
 	void OnTriggerEnter2D(Collider2D collision)
     {
-        Interactor interactor = collision.attachedRigidbody.GetComponent<Interactor>();
+        Interactor interactor = collision.attachedRigidbody?.GetComponent<Interactor>();
         if (interactor)
         {
             interactors.Add(interactor);
@@ -33,7 +33,7 @@ public class PlayerInteraction : MonoBehaviour
 
 	void OnTriggerExit2D(Collider2D collision)
 	{
-		Interactor interactor = collision.attachedRigidbody.GetComponent<Interactor>();
+		Interactor interactor = collision.attachedRigidbody?.GetComponent<Interactor>();
 		if (interactor)
 		{
 			interactors.Remove(interactor);
